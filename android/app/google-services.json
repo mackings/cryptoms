@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511376684226",
+    "project_id": "cryptomc-b3e0c",
+    "storage_bucket": "cryptomc-b3e0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511376684226:android:29f692c300ede15e83b75b",
+        "android_client_info": {
+          "package_name": "com.example.crypto_masterclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511376684226-tr87u9v5nt4dovc57qklb3qsb13a4phj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvyBkLM2RiUjgOETbC3aUjte0owfQKt5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511376684226-tr87u9v5nt4dovc57qklb3qsb13a4phj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
